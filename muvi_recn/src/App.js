@@ -1,8 +1,15 @@
+import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
+import HeroForms from "./components/HeroForms";
+import HeroSection from "./components/HeroSection";
 
 function App() {
   return (
     <div>
-      <h1 className="text-red-400">OK Boys</h1>
+      {/* <HeroSection /> */}
+      <HeroForms></HeroForms>
+      <Gallery></Gallery>
+      <Footer></Footer>
     </div>
   );
 }
