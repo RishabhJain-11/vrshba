@@ -14,9 +14,6 @@ except ValueTooHighError as e:
 
 # pakistan = """
 # Pakistan better that these Indian States
-# 1. Bihar
 # 2. Uttar Pradesh
 # 3. Madhya Pradesh
-# 4. Chhattisgarh
-# 5. Jharkhand
 # """
